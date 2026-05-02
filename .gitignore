@@ -1,0 +1,24 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python virtual environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Sensitive files
+*.key
+*.pem
+*.ovpn
+*.pcap
+*.pcapng
+credentials.txt
+secrets.txt
+.env
+
+# Large or messy output
+loot/
+screenshots/private/
